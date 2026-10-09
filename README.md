@@ -25,8 +25,8 @@ Successfully learned the process of hosting static website content using GitHub 
 
 Live Website
 
-Add your published website URL here.
+https://poojajadhsam16-hash.github.io/github-static-website/
 
 GitHub Repository
 
-Add your repository URL here.
+
